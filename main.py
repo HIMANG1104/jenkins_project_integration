@@ -1,6 +1,4 @@
 import csv
-
-
 class Employee:
     def __init__(self, name, id, hourly_rate):
         self.name = name
